@@ -6,3 +6,4 @@
 **I know this will make it bold, wow.**
 ***Syntax is fun***
 
+Github's tutorials have been very helpful. I'd love to see more videos included though. I am hands on.
